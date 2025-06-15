@@ -8,3 +8,6 @@ https://github.com/univrsal/input-overlay
 
 Thanks to Catppucin for the colour scheme:
 https://github.com/catppuccin
+
+
+Anyone can use this without crediting me or whatever, feel free :)
