@@ -1,6 +1,10 @@
 # InputOverlay-N64-Config
 ### N64 Controller config files, for the OBS Input Overlay addon
 
+Preview:
+
+![Alt text](https://i.imgur.com/tqBEcjC.gif)
+
 This was created using the NSO official N64 Controller.
 
 Compatible OBS addon:
