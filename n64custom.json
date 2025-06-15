@@ -1,0 +1,222 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 6,
+    "overlay_width": 582,
+    "overlay_height": 363,
+    "elements": [
+		{
+            "type": 0,
+            "pos": [
+                236,
+                254
+            ],
+            "id": "Stick Texture",
+            "z_level": 0,
+            "mapping": [
+                611,
+                156,
+                109,
+                109
+            ]
+        },
+        {
+            "type": 8,
+            "pos": [
+                1,
+                59
+            ],
+            "id": "D Pad",
+            "z_level": "0",
+            "mapping": [
+                1,
+                1,
+                150,
+                150
+            ]
+        },
+        {
+            "type": 2,
+            "pos": [
+                430,
+                108
+            ],
+            "id": "C Left",
+            "z_level": 0,
+            "mapping": [
+                49,
+                156,
+                53,
+                53
+            ],
+            "code": 2
+        },
+        {
+            "type": 2,
+            "pos": [
+                529,
+                108
+            ],
+            "id": "C Right",
+            "z_level": 0,
+            "mapping": [
+                49,
+                156,
+                53,
+                53
+            ],
+            "code": 4
+        },
+        {
+            "type": 2,
+            "pos": [
+                480,
+                58
+            ],
+            "id": "C Up",
+            "z_level": 0,
+            "mapping": [
+                49,
+                156,
+                53,
+                53
+            ],
+            "code": 3
+        },
+        {
+            "type": 2,
+            "pos": [
+                181,
+                114
+            ],
+            "id": "Button Start",
+            "z_level": 0,
+            "mapping": [
+                107,
+                156,
+                69,
+                68
+            ],
+            "code": 6
+        },
+        {
+            "type": 2,
+            "pos": [
+                266,
+                70
+            ],
+            "id": "Button B",
+            "z_level": 0,
+            "mapping": [
+                181,
+                156,
+                76,
+                76
+            ],
+            "code": 1
+        },
+        {
+            "type": 2,
+            "pos": [
+                331,
+                134
+            ],
+            "id": "Button A",
+            "z_level": 0,
+            "mapping": [
+                262,
+                156,
+                76,
+                76
+            ],
+            "code": 0
+        },
+        {
+            "type": 2,
+            "pos": [
+                41,
+                1
+            ],
+            "id": "Trigger L",
+            "z_level": 0,
+            "mapping": [
+                343,
+                156,
+                138,
+                34
+            ],
+            "code": 9
+        },
+        {
+            "type": 2,
+            "pos": [
+                402,
+                1
+            ],
+            "id": "Trigger R",
+            "z_level": 0,
+            "mapping": [
+                343,
+                156,
+                138,
+                34
+            ],
+            "code": 10
+        },
+        {
+            "type": 5,
+            "pos": [
+                253,
+                271
+            ],
+            "id": "Stick",
+            "z_level": 1,
+            "mapping": [
+                531,
+                156,
+                75,
+                75
+            ],
+            "stick_radius": 30,
+            "side": 0
+        },
+        {
+            "type": 6,
+            "pos": [
+                271,
+                179
+            ],
+            "id": "Trigger Z",
+            "z_level": 0,
+            "mapping": [
+                486,
+                156,
+                40,
+                58
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 0
+        },
+        {
+            "type": 6,
+            "pos": [
+                479,
+                157
+            ],
+            "id": "C Down",
+            "z_level": 0,
+            "mapping": [
+                49,
+                156,
+                53,
+                53
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 1
+        }
+    ]
+}
